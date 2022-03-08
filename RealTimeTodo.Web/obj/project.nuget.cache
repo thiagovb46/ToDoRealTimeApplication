@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FM8c3hQTQLwrOHrQApfjAUvlqiC1+dscMbzuHKed9gllUqtg1lJss798KivVjglFBkP1O9mvjl3lnOxaba68jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiag\\workspace\\dotnetProjects\\todo-application\\RealTimeTodo.Web\\RealTimeTodo.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.1\\microsoft.aspnetcore.spaservices.extensions.5.0.1.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
