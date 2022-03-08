@@ -19,6 +19,8 @@ namespace RealTimeTodo.Web
             services.AddSpaStaticFiles(configure => {
                 configure.RootPath = "wwwroot";
             });
+
+            services.AddSingleton<InMemoryToDoRepository, InMemoryToDoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
