@@ -23,3 +23,5 @@ C:\Users\thiag\workspace\dotnetProjects\todo-application\RealTimeTodo.Web\obj\De
 C:\Users\thiag\workspace\dotnetProjects\todo-application\RealTimeTodo.Web\obj\Debug\net5.0\ref\RealTimeTodo.Web.dll
 C:\Users\thiag\workspace\dotnetProjects\todo-application\RealTimeTodo.Web\obj\Debug\net5.0\RealTimeTodo.Web.pdb
 C:\Users\thiag\workspace\dotnetProjects\todo-application\RealTimeTodo.Web\obj\Debug\net5.0\RealTimeTodo.Web.genruntimeconfig.cache
+C:\Users\thiag\workspace\dotnetProjects\todo-application\RealTimeTodo.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\thiag\workspace\dotnetProjects\todo-application\RealTimeTodo.Web\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
